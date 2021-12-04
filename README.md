@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THUSHARTOM
 - 👀 I’m interested in Robotics and development(both software and hardware)
-- 🌱 I’m currently learning fluter, fusion 360
+- 🌱 I’m currently learning flutter, fusion 360
 - 💞️ I’m looking to collaborate on Robotics projects
 - 📫 You can reach me on my email address - thushartom@gmail.com
 
