@@ -1,6 +1,6 @@
 <h1 style='color:green;';>✨Electronics Enthusiast✨</h1>
 
--  (ps: I admire hacking intuition and learning by getting my hands dirty,...)
+-  (ps: I admire engineering intuition and learning by getting my hands dirty,...)
 -   Learning on a daily basis from the ground up using ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Open to collaborate on projects
 - I love tinkering with new technologies. Touched on Softawre Development, ML, Computer vision, IOT and robotics(ROS) 
