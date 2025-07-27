@@ -1,4 +1,4 @@
-<h1 style='color:green;';>✨Robotics and Reinforcement learning Enthusiast✨</h1>
+<h1 style='color:green;';>✨Robotics and Machine learning Enthusiast✨</h1>
 
 - Learning daily from the ground up using all domains ranging from 3D modeling and simulation, ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Virtual reality, Video editing etc
 - Open to collaborating on projects - Softawre Development, Machine Learning, Computer vision, IOT and robotics(ROS) 
